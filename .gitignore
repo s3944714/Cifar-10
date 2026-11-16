@@ -1,3 +1,14 @@
+# Data
+data/
+*.tar.gz
+cifar-10-batches-py/
+
+# Models / checkpoints
+*.h5
+*.keras
+saved_models/
+
+# Python / Jupyter
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
